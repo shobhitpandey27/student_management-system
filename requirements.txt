@@ -1,0 +1,10 @@
+# No external dependencies are required.
+# Python standard library only.
+# Student Management System
+# Python version: 3.9+
+#
+# No external packages are required.
+# The project uses only Python standard libraries.
+
+# Testing
+# unittest is included with Python and does not need installation.
