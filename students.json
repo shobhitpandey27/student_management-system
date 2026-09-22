@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1234",
+        "name": "qwert",
+        "age": "12",
+        "course": "qaz",
+        "semester": "2",
+        "marks": 23.0
+    },
+    {
+        "id": "123232323232",
+        "name": "rishab",
+        "age": "32",
+        "course": "commerce",
+        "semester": "9",
+        "marks": 0.0
+    }
+]
